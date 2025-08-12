@@ -16,7 +16,7 @@ Aplicativo simples desenvolvido em Java que gera senhas seguras e personalizadas
 
 ## Tecnologias utilizadas
 
-- Java (JDK 8+)
+- Java (JDK 7+)
 - Swing (`JOptionPane`) para interface gráfica
 - Sem dependências externas
 
@@ -26,7 +26,7 @@ Aplicativo simples desenvolvido em Java que gera senhas seguras e personalizadas
 
 ### Pré-requisitos
 
-- Java instalado em sua máquina (JDK 8 ou superior)
+- Java instalado em sua máquina (JDK 7 ou superior)
 - IDE Java ou execução via terminal
 
 ### Passos para executar
